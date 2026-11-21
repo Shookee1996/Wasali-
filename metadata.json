@@ -1,0 +1,6 @@
+{
+  "name": "Mishkal - Arabic Text Diacritization & Formatting",
+  "description": "تطبيق ويب متقدم وخفيف الوزن لتشكيل وتنسيق النصوص العربية وضبط علامات الترقيم والحركات يدوياً وآلياً.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
